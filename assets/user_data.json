@@ -1,0 +1,71 @@
+{
+    "coins" : 0,
+    "hint" : 3,
+    "extend_time" : 3,
+    "levels":[
+        {
+            "id":1,
+            "title": "level one",
+            "description": "space",
+            "level_data": null,
+            "rate":0,
+            "is_locked":false
+        },
+        {
+            "id":2,
+            "title":"level two",
+            "description":"english",
+            "level_data":null,
+            "rate":0,
+            "is_locked":true
+        },
+        {
+            "id":3,
+            "title":"level three",
+            "description":"computer",
+            "level_data":null,
+            "rate":0,
+            "is_locked":true
+        },
+        {
+            "id":4,
+            "title":"level four",
+            "description":"sports",
+            "level_data":null,
+            "rate":0,
+            "is_locked":true
+        },
+        {
+            "id":5,
+            "title":"level five",
+            "description":"law",
+            "level_data":null,
+            "rate":0,
+            "is_locked":true
+        },
+        {
+            "id":6,
+            "title":"level six",
+            "description":"PH",
+            "level_data":null,
+            "rate":0,
+            "is_locked":true
+        },
+        {
+            "id":7,
+            "title":"level seven",
+            "description":"country",
+            "level_data":null,
+            "rate":0,
+            "is_locked":true
+        },
+        {
+            "id":8,
+            "title":"level eight",
+            "description":"science",
+            "level_data":null,
+            "rate":0,
+            "is_locked":true
+        }
+    ]
+}
